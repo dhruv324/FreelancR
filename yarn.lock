@@ -984,6 +984,11 @@
     hey-listen "^1.0.8"
     tslib "^2.3.1"
 
+"@netlify/next@^1.4.9":
+  version "1.4.9"
+  resolved "https://registry.npmjs.org/@netlify/next/-/next-1.4.9.tgz"
+  integrity sha512-lrbY+CEhS9x0jV7oXVYi/rqxZ6ht5KeLGNZsgIPI34kpDaBuD/EfsyKa28BWeSrFalxRZmkMxQYRSTa82v3roQ==
+
 "@next/bundle-analyzer@14.2.3":
   version "14.2.3"
   resolved "https://registry.npmjs.org/@next/bundle-analyzer/-/bundle-analyzer-14.2.3.tgz"
@@ -5844,7 +5849,7 @@ next-themes@^0.2.1:
   resolved "https://registry.npmjs.org/next-themes/-/next-themes-0.2.1.tgz"
   integrity sha512-B+AKNfYNIzh0vqQQKqQItTS8evEouKD7H5Hj3kmuPERwddR2TxvDSFZuTj6T7Jfn1oyeUyJMydPl1Bkxkh0W7A==
 
-next@*, "next@^8.1.1-canary.54 || >=9.0.0", next@14.2.3:
+next@*, "next@^8.1.1-canary.54 || >=9.0.0", next@>=12.2.0, next@14.2.3:
   version "14.2.3"
   resolved "https://registry.npmjs.org/next/-/next-14.2.3.tgz"
   integrity sha512-dowFkFTR8v79NPJO4QsBUtxv0g9BrS/phluVpMAt2ku7H+cbcBJlopXjkWlwxrk/xGqMemr7JkGPGemPrLLX7A==
